@@ -25,9 +25,6 @@
 
     <%= render 'shared/nav', location: 'bottom' %>
 
-    <% if session[:source] %>
-      <hr>
-      Thanks for visiting us from <%= session[:source] %>
-    <% end %>
+    <%= source_helper("portfolio") %>
   </body>
 </html>
