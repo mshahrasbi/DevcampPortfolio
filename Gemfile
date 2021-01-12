@@ -39,6 +39,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  # another tool for debugging
+  gem 'pry-byebug'
 end
 
 group :development do
@@ -58,3 +60,4 @@ gem 'friendly_id', '~> 5.4.0'
 
 # ading devise (for authentication) to our project
 gem 'devise', '~> 4.7', '>= 4.7.3'
+
