@@ -61,3 +61,5 @@ gem 'friendly_id', '~> 5.4.0'
 # ading devise (for authentication) to our project
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
+# bootstrap
+# gem 'bootstrap', '~> 5.0.0.beta1'
