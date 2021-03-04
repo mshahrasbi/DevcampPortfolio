@@ -63,3 +63,5 @@ gem 'devise', '~> 4.7', '>= 4.7.3'
 
 # bootstrap
 # gem 'bootstrap', '~> 5.0.0.beta1'
+
+gem 'petergate', '~> 2.0', '>= 2.0.1'
