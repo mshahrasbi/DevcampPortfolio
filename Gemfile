@@ -69,3 +69,5 @@ gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'petergate', '~> 2.0', '>= 2.0.1'
 
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
+
+gem 'cocoon', '~> 1.2', '>= 1.2.15'

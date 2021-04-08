@@ -1,4 +1,4 @@
-alert("Hi");
+//alert("Hi");
 
 ;(function(root, factory) {
     if (typeof define === 'function' && define.amd) {
