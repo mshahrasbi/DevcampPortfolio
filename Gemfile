@@ -75,3 +75,5 @@ gem 'cocoon', '~> 1.2', '>= 1.2.15'
 gem 'gritter', '~> 1.2'
 
 gem 'twitter', '~> 7.0'
+
+gem 'redis', '~> 4.2', '>= 4.2.5'
